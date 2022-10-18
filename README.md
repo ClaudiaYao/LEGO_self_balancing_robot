@@ -1,2 +1,2 @@
 # LEGO_MindStorm
-Some projects for LEGO MindStorms - could be blockly language or Python code
+This project uses PID method to control a robot so that it could keep up-right status without falling down.
