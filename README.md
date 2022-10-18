@@ -1,4 +1,4 @@
-# LEGO_MindStorm
+# Purpose of the Project
 This project uses PID method to control a robot so that it could keep up-right status without falling down.
 
 The detailed introduction for the modelling design could refer to this blog post:
